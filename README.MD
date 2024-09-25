@@ -76,7 +76,7 @@ After conversion, the tool will display a summary including:
 
 ## Contributing
 
-Contributions, issues, and feature requests are welcome. Feel free to check [issues page](link-to-issues-page) if you want to contribute.
+Contributions, issues, and feature requests are welcome. Feel free to check [issues page](issues) if you want to contribute.
 
 ## License
 
